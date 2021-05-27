@@ -1,6 +1,8 @@
 # Proximity attacks
 
-This repository contains a framework for reasoning about abstract and practical proximity attacks against mobile targets. 
+This repository contains a framework written in pyhon for reasoning about abstract and practical proximity attacks against mobile targets. 
+
+The `bounds` folder contains code to calculate bounds on the number of queries an attacker needs to locate a random walk victim moving in one and two dimensionsional search spaces. The `strategies` folder contains the code to calculate the effort of practical (contrained) attacker strategies for synthetic and real-word data (T-Drive dataset).
 
 
 ### Acknowledgements
